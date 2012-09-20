@@ -1,0 +1,55 @@
+
+
+                         ¯¯¯ Chinese Checkers ®®®
+        
+                 Copyright (c) 1993-1994 by: Seppo Enarvi
+
+
+Sis„lt”:
+
+  1. Tarkoitus
+  2. Pelaaminen
+  3. Toiminnot
+  4. Tekij„
+
+1. Tarkoitus
+------------
+
+  Pelin tarkoituksena on saada omat nappulat (10 kpl) l„ht”sakarastaan
+  t„hden vastakkaiseen sakaraan. Voittaja on se pelaaja, joka ensimm„isen„
+  saa nappulansa perille. T„m„n j„lkeen peli keskeytyy, ja voi valita uuden
+  pelin, tai lopettaa pelaamisen.
+
+2. Pelaaminen
+-------------
+
+  Pelaaminen tapahtuu osoittamalla hiirell„ omaa nappulaa, jota haluaa
+  liikuttaa ja painamalla vasenta hiiren nappulaa (Yhdell„ vuorolla saa
+  liikuttaa vain kerran). Sen j„lkeen pelaaja voi klikata sen kolon
+  kohdalla, johon h„n haluaa nappulansa liikkuvan. Nappulan voi liikuttaa
+  vain viereiseen ruutuun, tai jos viereisess„ ruudussa on jonkin pelaajan
+  nappula, niin sen yli voi hyp„t„, klikkaamalla seuraavassa ruudussa.
+  Jos hypp„„ nappulan yli, niin hypp„„mist„ voi jatkaa kuinka kauan tahansa.
+  Hypyn j„lkeen ei kuitenkaan voi en„„ siirt„„ yht„ koloa eteenp„in. Siirron
+  voi perua niin kauan kun ei ole valinnut uutta nappulaa siirt„m„ll„
+  nappulan takaisin siihen mist„ l„hti.
+
+3. Toiminnot
+------------
+
+  Peliss„ on nelj„ nappulaa. Vasemmalla ylh„„ll„ oleva (jossa on punainen
+  ympyr„ ja sen sis„ll„ viiva) lopettaa vuoron ja vuoro siirtyy seuraavalle
+  pelaajalle. Exit lopettaa nykyisen pelin, jonka j„lkeen voi hyp„t„ pois
+  ohjelmasta, tai aloittaa uuden pelin. Save tallentaa nykyisen
+  pelitilanteen, Load lataa viimeksi tallennetun tilanteen.
+
+4. Tekij„
+---------
+
+  Peli on k„„nn”s tietokoneelle alkuper„isest„ Chinese Checkers -pelist„.
+  Peli„ saa vapaasti muokata ja levitt„„. Tekij„„n saa yhteytt„ seuraavasta
+  osoitteesta:
+
+    Seppo Enarvi
+    Koivuniementie 6A
+    FIN-00930 Helsinki
